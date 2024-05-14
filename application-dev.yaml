@@ -1,4 +1,4 @@
-mybaits:
-  name: wodiu
+mysql:
+ name: wodiu
 person:
   user: wocao
